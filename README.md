@@ -1,3 +1,3 @@
-# boltrukevich_2
+# but_2
 my project two
 # мой проект на github
